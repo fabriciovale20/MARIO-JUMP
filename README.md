@@ -1,8 +1,8 @@
 # Aplicação Web <img src="./imagens/logo-fv.png" width="30px;" alt="Foto do Fabrício Vale"/><br>
 
-## **Jogo do Mario**
+## **Jogo do Mário**
 
-*Página web com o jogo do Mario. pressione qualquer tecla para pular os obstáculos.*
+*Página web com o jogo do Mário. pressione qualquer tecla para pular os obstáculos.*
 
 ## Ferramentas
 <p>
